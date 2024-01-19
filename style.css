@@ -164,7 +164,7 @@ main aside.left section#contact aside {
 main aside.left section#about,
 main aside.left section#resume,
 main aside.left section#contact {
-    padding: 250px;
+    padding: 250px 0;
     max-width: 400px;
 }
 main aside.left section#about p,
